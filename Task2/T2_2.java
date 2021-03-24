@@ -8,11 +8,9 @@
  * If User Enter 5 - Average 
  * Ask the user to enter the 2 numbers in a variable for first and second (first and second are variablenames) for the first 4 options mentioned above and print the result
  * Ask the user to enter two more numbers as first1 and second2 for calculating the average as soonas the user chooses an option 5
- * In the end, if the answer of any operation is Negative print a statement saying “Oops optionX(1/2/3/4/5/) is returning the negative number”
+ * In the end, if the answer of any operation is Negative print a statement saying â€œOops optionX(1/2/3/4/5/) is returning the negative numberâ€
  * NOTE: At a time users can perform one action at a time
  */
-
-
 
 
 package task2;
