@@ -1,10 +1,8 @@
-package task1;
-
 
 //Swap two numbers using the third variable as a result name and do the same task without using any third variable.
 /*Swap two numbers using the third variable as a result name*/
 
-
+package task1;
 
 import java.util.Scanner;
 
