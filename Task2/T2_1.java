@@ -1,11 +1,11 @@
-package task2;
 
 //Write a program in JAVA to perform the following operation:
-/* If a number is divisible by 3 it should print “Consultadd” as a string
- * If a number is divisible by 5 it should print “JAVA Training” as a string
- * If a number is divisible by both 3 and 5 its should print “Consultadd JAVA Training” as astring
+/* If a number is divisible by 3 it should print â€œConsultaddâ€ as a string
+ * If a number is divisible by 5 it should print â€œJAVA Trainingâ€ as a string
+ * If a number is divisible by both 3 and 5 its should print â€œConsultadd JAVA Trainingâ€ as astring
  */
 
+package task2;
 
 import java.util.Scanner;
 
