@@ -1,8 +1,7 @@
-package task1;
-
 
 //Write a program to print the value given by the user 
 
+package task1;
 
 import java.util.Scanner;
 
